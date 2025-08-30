@@ -63,3 +63,9 @@ The trained model achieves competitive accuracy and is capable of distinguishing
    ```bash
    git clone https://github.com/yourusername/diabetic-retinopathy-detection.git
    cd diabetic-retinopathy-detection
+
+## 👨‍💻 Author
+
+V Om Keshava Reddy
+📌 B.Tech CSE (AI & ML), SRM University
+🔗 [LinkedIn](https://www.linkedin.com/in/v-om-keshava-reddy-792478349/)| [GitHub](https://github.com/keshavreddy04)| [LeetCode](https://leetcode.com/u/keshav_30/)
